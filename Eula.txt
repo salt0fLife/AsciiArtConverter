@@ -1,0 +1,11 @@
+Do whatever you want with this program!
+
+Put images you wish to convert inside the "images" folder and run "run.bat" to convert to ascii art
+converted images will appear inside the "exports" folder
+
+I would recommend using lower resolution images as they look better once converted (best results below 500 x 500 pixels)
+
+jpgs are not supported, even though the program will still attempt to convert them
+
+
+-made by Brandon Edmondson
