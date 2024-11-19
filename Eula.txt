@@ -8,4 +8,4 @@ I would recommend using lower resolution images as they look better once convert
 jpgs are not supported, even though the program will still attempt to convert them
 
 
--made by Brandon Edmondson
+-made by salt0fLife
